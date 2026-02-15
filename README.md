@@ -86,24 +86,6 @@ The AI for Bharat program provides hands-on workshops, expert mentorship, and a 
 
 ---
 
-## 🎯 Demo
-
-### Dashboard Overview
-![Dashboard Screenshot](./docs/screenshots/dashboard.png)
-
-### Sensor Analytics
-![Sensors Screenshot](./docs/screenshots/sensors.png)
-
-### AI Recommendations
-![Recommendations Screenshot](./docs/screenshots/recommendations.png)
-
-### Balaram AI Chatbot
-![Chatbot Screenshot](./docs/screenshots/chatbot.png)
-
-> **Note:** Screenshots are illustrative. Actual interface may vary.
-
----
-
 ## 🛠️ Technology Stack
 
 ### Frontend
@@ -379,36 +361,6 @@ docker run -p 3000:3000 e-bhoomi
 ```
 
 ---
-
-## 📈 Roadmap
-
-### Phase 1 (Current)
-- [x] Real-time sensor monitoring
-- [x] Historical data visualization
-- [x] Weather integration
-- [x] AI recommendations
-- [x] Smart irrigation control
-- [x] SMS alerts
-- [x] AI chatbot
-
-### Phase 2 (Q2 2026)
-- [ ] User authentication
-- [ ] Multi-farm support
-- [ ] Crop-specific recommendations
-- [ ] Disease detection via images
-- [ ] Detailed weather forecasts
-- [ ] Mobile app (React Native)
-
-### Phase 3 (Q3 2026)
-- [ ] Yield prediction models
-- [ ] Drone integration
-- [ ] Community features
-- [ ] Marketplace integration
-- [ ] Government scheme integration
-- [ ] Multilingual support
-
----
-
 ## 🤝 Contributing
 
 We welcome contributions from the community! Here's how you can help:
@@ -441,21 +393,13 @@ We welcome contributions from the community! Here's how you can help:
 
 ---
 
-## 📄 License
-
-This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
-
----
-
 ## 👥 Team
 
 **E-Bhoomi Development Team**
-- Project Lead: [Your Name]
-- AI/ML Engineer: [Team Member]
-- Full Stack Developer: [Team Member]
-- IoT Specialist: [Team Member]
-- UI/UX Designer: [Team Member]
-
+- Project Lead: Rup Roshan Jha
+- AI/ML Engineer: Ridhibrata Das
+- Full Stack Developer: Soumyadip Pal
+- IoT Specialist: Ankit Mondal
 ---
 
 ## 🙏 Acknowledgments
@@ -467,20 +411,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 - **Vercel** for hosting platform
 - **Open Source Community** for amazing libraries and tools
 
----
-
-## 📞 Contact & Support
-
-### Get Help
-- 📧 Email: support@ebhoomi.com
-- 💬 Discord: [Join our community](https://discord.gg/ebhoomi)
-- 🐦 Twitter: [@EBhoomiApp](https://twitter.com/EBhoomiApp)
-- 📱 WhatsApp: +91-XXXX-XXXX-XX
-
-### Report Issues
-- GitHub Issues: [Create an issue](https://github.com/yourusername/e-bhoomi/issues)
-- Bug Reports: bugs@ebhoomi.com
-- Feature Requests: features@ebhoomi.com
 
 ---
 
@@ -488,15 +418,6 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 - [Requirements Document](./requirements.md)
 - [Design Document](./design.md)
-- [API Documentation](./docs/API.md) (coming soon)
-- [User Guide](./docs/USER_GUIDE.md) (coming soon)
-- [Developer Guide](./docs/DEVELOPER_GUIDE.md) (coming soon)
-
----
-
-## 🌟 Star History
-
-[![Star History Chart](https://api.star-history.com/svg?repos=yourusername/e-bhoomi&type=Date)](https://star-history.com/#yourusername/e-bhoomi&Date)
 
 ---
 
@@ -517,3 +438,4 @@ E-Bhoomi was born from the vision of making advanced agricultural technology acc
 [⬆ Back to Top](#-e-bhoomi---smart-agricultural-iot-dashboard)
 
 </div>
+
